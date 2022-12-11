@@ -9,7 +9,7 @@
   "author": "D. C. Karunaratna",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "googleapis": "^39.2.0",
     "hbs": "^4.0.4"
   }
